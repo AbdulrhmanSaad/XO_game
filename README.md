@@ -7,5 +7,5 @@ To win the game you should make three same (X or O) in row or in colume or in di
 <img src="Screenshot/Screenshot_2023-05-17-15-38-18-559_com.example.xogame.jpg"  width="400" >
 <img src="Screenshot/Screenshot_2023-05-17-15-38-32-124_com.example.xogame.jpg" width="400" >
 <br><br>
-<img src=""Screenshot/Screenshot_2023-05-17-15-39-02-861_com.example.xogame.jpg" width="400" >
-<img src=""Screenshot/Screenshot_2023-05-17-15-39-42-159_com.example.xogame.jpg" width="400" >
+<img src="Screenshot/Screenshot_2023-05-17-15-39-02-861_com.example.xogame.jpg" width="400" >
+<img src="Screenshot/Screenshot_2023-05-17-15-39-42-159_com.example.xogame.jpg" width="400" >
